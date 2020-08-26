@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Speaker on Site de Sarvhangel</title>
-    <link>https://examplesite.org/tags/speaker/</link>
+    <link>/tags/speaker/</link>
     <description>Recent content in Speaker on Site de Sarvhangel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>fr-FR</language>
     <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://examplesite.org/tags/speaker/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/speaker/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Notre première conférence</title>
-      <link>https://examplesite.org/epanoui-au-travail-2/</link>
+      <link>/epanoui-au-travail-2/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/epanoui-au-travail-2/</guid>
+      <guid>/epanoui-au-travail-2/</guid>
       <description>Après notre conférence au VillageByCA, Andréa et moi avons postulé à quelques évènements jusqu&amp;rsquo;à ce qu&amp;rsquo;un d&amp;rsquo;entre eux nous répondent favorablement.</description>
     </item>
     
     <item>
       <title>Notre premier talk</title>
-      <link>https://examplesite.org/epanoui-au-travail-1/</link>
+      <link>/epanoui-au-travail-1/</link>
       <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.org/epanoui-au-travail-1/</guid>
+      <guid>/epanoui-au-travail-1/</guid>
       <description>Il s’est déroulé le 4 juillet 2019 au VillageByCA, là où je travaillais à l’époque.</description>
     </item>
     
