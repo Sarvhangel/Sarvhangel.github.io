@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Curiosités on Site de Sarvhangel</title>
+    <link>https://examplesite.org/tags/curiosites/</link>
+    <description>Recent content in Curiosités on Site de Sarvhangel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://examplesite.org/tags/curiosites/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Le dépouillement</title>
+      <link>https://examplesite.org/depouillement/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/depouillement/</guid>
+      <description>Ce dimanche 26 mai ce sont déroulées les élections européennes et, comme toute bon citoyenne, je suis partie voter.</description>
+    </item>
+    
+    <item>
+      <title>Des touristes au vide-grenier</title>
+      <link>https://examplesite.org/touristes-vide-grenier/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/touristes-vide-grenier/</guid>
+      <description>Je suis du genre à acheter des petites bricoles à droite à gauche, plus ou moins utiles, en me disant « tiens ce serait utile ça » ou « oh ça décorerait bien telle pièce ».</description>
+    </item>
+    
+  </channel>
+</rss>

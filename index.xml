@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Site de Sarvhangel</title>
+    <link>https://examplesite.org/</link>
+    <description>Recent content on Site de Sarvhangel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://examplesite.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Notre première conférence</title>
+      <link>https://examplesite.org/epanoui-au-travail-2/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/epanoui-au-travail-2/</guid>
+      <description>Après notre conférence au VillageByCA, Andréa et moi avons postulé à quelques évènements jusqu&amp;rsquo;à ce qu&amp;rsquo;un d&amp;rsquo;entre eux nous répondent favorablement.</description>
+    </item>
+    
+    <item>
+      <title>Etre Speakeuse</title>
+      <link>https://examplesite.org/etre-speakeuse/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/etre-speakeuse/</guid>
+      <description>En 2018, j’ai eu un déclic avec Andréa. On était au DevFest et on sortait d’une conférence intitulée « Où sont les femmes ?</description>
+    </item>
+    
+    <item>
+      <title>Notre premier talk</title>
+      <link>https://examplesite.org/epanoui-au-travail-1/</link>
+      <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/epanoui-au-travail-1/</guid>
+      <description>Il s’est déroulé le 4 juillet 2019 au VillageByCA, là où je travaillais à l’époque.</description>
+    </item>
+    
+    <item>
+      <title>Le dépouillement</title>
+      <link>https://examplesite.org/depouillement/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/depouillement/</guid>
+      <description>Ce dimanche 26 mai ce sont déroulées les élections européennes et, comme toute bon citoyenne, je suis partie voter.</description>
+    </item>
+    
+    <item>
+      <title>Des touristes au vide-grenier</title>
+      <link>https://examplesite.org/touristes-vide-grenier/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/touristes-vide-grenier/</guid>
+      <description>Je suis du genre à acheter des petites bricoles à droite à gauche, plus ou moins utiles, en me disant « tiens ce serait utile ça » ou « oh ça décorerait bien telle pièce ».</description>
+    </item>
+    
+    <item>
+      <title>Comment se préparer pour aller au Japon ?</title>
+      <link>https://examplesite.org/prepation-voyage-japon/</link>
+      <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/prepation-voyage-japon/</guid>
+      <description>Le voyage Ceux qui se sont déjà intéressés aux billets d’avion savent que ça coûte un rein voire deux dans la période de vacances de printemps.</description>
+    </item>
+    
+    <item>
+      <title>De retour du Japon !</title>
+      <link>https://examplesite.org/voyage-japon/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/voyage-japon/</guid>
+      <description>Depuis le lycée, j’en rêvais, et je n’ai pas été déçue ; au contraire, je suis tombée amoureuse de ce pays et ce pour un certain nombre de raisons que je m’en vais vous décrire dans une petite série d’articles.</description>
+    </item>
+    
+  </channel>
+</rss>

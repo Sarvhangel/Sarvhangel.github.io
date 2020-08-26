@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Site de Sarvhangel</title>
+    <link>https://examplesite.org/tags/</link>
+    <description>Recent content in Tags on Site de Sarvhangel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://examplesite.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Passions</title>
+      <link>https://examplesite.org/tags/passions/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/tags/passions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speaker</title>
+      <link>https://examplesite.org/tags/speaker/</link>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/tags/speaker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curiosités</title>
+      <link>https://examplesite.org/tags/curiosites/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/tags/curiosites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Japon</title>
+      <link>https://examplesite.org/tags/japon/</link>
+      <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/tags/japon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voyage</title>
+      <link>https://examplesite.org/tags/voyage/</link>
+      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.org/tags/voyage/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
